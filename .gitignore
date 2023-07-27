@@ -1,0 +1,16 @@
+\#*
+\.DS_Store
+*~
+_logs
+_tmp
+!__init__.py
+*.pyc
+*.log
+static/apps
+node_modules
+_sessions
+_test
+venv
+.idea
+.vscode
+*.log.*
